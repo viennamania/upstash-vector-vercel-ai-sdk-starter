@@ -1,0 +1,4 @@
+
+export UPSTASH_VECTOR_REST_URL=https://honest-mongoose-98966-us1-vector.upstash.io
+export UPSTASH_VECTOR_REST_TOKEN=ABkFMGhvbmVzdC1tb25nb29zZS05ODk2Ni11czFhZG1pbk5ERmlOVGRsTm1JdE1XUXhPQzAwT1RFMExUbG1Zell0TTJKaFltTTBNak0xT0RaaA==
+export OPENAI_API_KEY=sk-proj-gf4gNGjcrQwbqz6daPiYT3BlbkFJLbvEcq35j7mNpDcgTDb2
